@@ -1,0 +1,18 @@
+                                              Sales Performance Dashboard
+
+Overview :
+This interactive dashboard provides a comprehensive view of sales performance,
+enabling users to track key metrics, identify trends, and make data-driven decisions.
+
+Features :
+
+Sales Representative:
+            Filter sales data by individual representatives to evaluate performance.
+Product: 
+            Analyze sales by product category to identify top-selling items.
+Total Amount:    
+            Track total sales revenue over time.
+Sales Trend:
+            Visualize sales trends over time to identify patterns and seasonality.
+Location: 
+            Examine sales performance by geographic location to identify regional strengths and weaknesses.
